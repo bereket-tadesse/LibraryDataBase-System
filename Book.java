@@ -54,6 +54,7 @@ public class Book {
 
 	/**
 	 * a getter for the author of a book
+	 *
 	 * @return
 	 */
 	public String getAuthor() {
