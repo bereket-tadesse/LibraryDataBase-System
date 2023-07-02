@@ -7,7 +7,7 @@ Project Hierarchy:
 <p> 
 LibraryDatabaseProject
 └── src
-    &nbsp;└── com
+    └── com
         └── library
             └── database
                 ├── Book.java
