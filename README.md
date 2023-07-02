@@ -4,6 +4,7 @@ This is a library DataBase management system to organize books, search easily ba
 
 Project Hierarchy:
 
+<p> 
 LibraryDatabaseProject
 └── src
     └── com
@@ -11,3 +12,5 @@ LibraryDatabaseProject
             └── database
                 ├── Book.java
                 └── LibraryDatabase.java
+</p>
+
