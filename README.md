@@ -4,7 +4,7 @@ This is a library database management system to organize books and search easily
 
 ## Project Hierarchy:
 
-<p> 
+
 LibraryDatabaseProject
 - └── src
   --      Tab └── com
@@ -12,5 +12,4 @@ LibraryDatabaseProject
             └── database
                 ├── Book.java
                 └── LibraryDatabase.java
-</p>
 
