@@ -6,9 +6,9 @@ This is a library database management system to organize books and search easily
 
 <p> 
 LibraryDatabaseProject
-└── src
-       Tab └── com
-        └── library
+- └── src
+  --      Tab └── com
+    -     └── library
             └── database
                 ├── Book.java
                 └── LibraryDatabase.java
